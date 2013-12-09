@@ -1,4 +1,4 @@
 pigpen
 ======
 
-a repository to test pull and push before going live on sand hawk
+a repository to test pull and push before going live on hyperion
