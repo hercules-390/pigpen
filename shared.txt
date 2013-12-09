@@ -6,3 +6,5 @@ every developer is invited to add one line with his ID
 herc4mac        Enrico Sorichetti
                 added one line to test pull requests
                 one more line por a pull
+
+jphartmann      John P. Hartmann
