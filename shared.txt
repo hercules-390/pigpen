@@ -8,3 +8,4 @@ herc4mac        Enrico Sorichetti
                 one more line por a pull
 
 jphartmann      John P. Hartmann
+Fish-Git        Fish (David B. Trout)
