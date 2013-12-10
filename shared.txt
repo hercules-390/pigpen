@@ -9,3 +9,4 @@ herc4mac        Enrico Sorichetti
 
 jphartmann      John P. Hartmann
 Fish-Git        Fish (David B. Trout)
+g4ugm           Dave Wade
