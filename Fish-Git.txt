@@ -12,6 +12,3 @@ Email (preferred):     fish@infidels.org
 Email (alternate):     fish@softdevlabs.com
 
 -----------------------------------------------------
-
-Fish "mystery merge" test: change by person A,
-causing remote repo to get ahead of my own "working" repo.
