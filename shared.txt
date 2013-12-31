@@ -11,3 +11,11 @@ jphartmann      John P. Hartmann
 Fish-Git        Fish (David B. Trout)
 g4ugm           Dave Wade
 dasdman
+
+
+Fish "mystery merge" test: change by me, causing my "working" repo
+to become out of sync with the remote repo, as a result of me having
+committed this change to my local repo before doing a pull from the
+remote repo. (But then too, the pull I could have done immediately
+before my commit COULD have said "Up to date" as a result of the
+other person doing their push shortly AFTER I did my trial pull).
