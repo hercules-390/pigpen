@@ -1,4 +1,0 @@
-1 line1
-2 line2
-3 line 3 from pigpen1
-4 line 4 from pigpen2
