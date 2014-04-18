@@ -12,3 +12,6 @@ Email (preferred):     fish@infidels.org
 Email (alternate):     fish@softdevlabs.com
 
 -----------------------------------------------------
+
+fish test commit after changing github password and
+ssh key due to heartbleed openssl security incident.
